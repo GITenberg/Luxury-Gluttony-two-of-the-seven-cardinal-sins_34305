@@ -1,0 +1,36 @@
+_repo: Luxury-Gluttony-two-of-the-seven-cardinal-sins_34305
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Marcel, Adrian
+    gutenberg_agent_id: '36948'
+    url: http://www.gutenberg.org/2009/agents/36948
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sue, Eugène
+    aliases:
+    - Sue, Eugene
+    - Sue, Marie Joseph
+    birthdate: 1804
+    deathdate: 1857
+    gutenberg_agent_id: '1186'
+    url: http://www.gutenberg.org/2009/agents/1186
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
+description: ''
+gutenberg_issued: '2010-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34305'
+  lccn: '00000703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+title: 'Luxury--Gluttony: Two of the Seven Cardinal Sins'
+url: http://www.gutenberg.org/ebooks/34305
